@@ -1,6 +1,7 @@
 const tailwindcss = require("tailwindcss");
 const autoprefixer = require("autoprefixer");
 const cssnano = require("cssnano");
+const sveltePreprocess = require('svelte-preprocess');
 
 const mode = process.env.NODE_ENV;
 const dev = mode === "development";
@@ -17,6 +18,7 @@ module.exports = {
 		
 		!dev && cssnano({
 			preset: "default",
+			adapter: require('@sveltejs/adapter-static')(),
 		}),
 	],
 };
