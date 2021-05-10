@@ -4,7 +4,7 @@
 
     <div class="px-5 py-5">
         <dl
-          class="md:space-y-0 md:grid md:grid-cols-2 md:grid-rows-1 lg:grid-cols-3"
+          class="md:space-y-0 md:grid md:grid-cols-2 md:grid-rows-1 lg:grid-cols-2"
         >
           <div class="px-5 py-5">
             <dt class="text-lg font-medium leading-6 text-gray-900">

@@ -2,7 +2,7 @@
     import { page } from '$app/stores';
 </script>
 
-<div class="flex pb-5 space-x-5">
+<div class="flex mb-8 space-x-5">
     <nav>
         <ul class="flex flex-row space-x-4">
             <li class="px-5 py-1 border border-gray-900 rounded-md focus:outline-none hover:bg-gray-900 hover:text-white" class:active={$page.path === '/'}><a sveltekit:prefetch href="/">Home</a></li>
