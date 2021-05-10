@@ -18,7 +18,6 @@ module.exports = {
 		
 		!dev && cssnano({
 			preset: "default",
-			adapter: require('@sveltejs/adapter-static')(),
 		}),
 	],
 };
