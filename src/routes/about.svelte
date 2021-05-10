@@ -20,6 +20,6 @@
 
 <p class="text-xl text-center">
 	Hi, I'm Edan!<br>
-	On an infinite life journey of learning.
-	I live in Maryland with my partner, our 3-year-old superman and our furball. 🐶
+	On an a life long journey of learning. <br>
+	I live in Maryland with my partner in crime, our 3-year-old superman and furball.
 </p>
