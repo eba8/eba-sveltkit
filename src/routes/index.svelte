@@ -15,7 +15,7 @@
 </script> -->
 
 <svelte:head>
-	<title>Edan Ben-Atar</title>
+	<title>Edan Ben-Atarr</title>
 </svelte:head>
 <img src="/edan-ben-atar.jpg" class="rounded-full w-28" alt="">
 <h1 class="text-4xl">Edan Ben-Atar</h1>
