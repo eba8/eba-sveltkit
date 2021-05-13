@@ -134,6 +134,23 @@
                   <div class="text-sm text-gray-900">$118.04</div>
                 </td>
               </tr>
+              <tr>
+                <td class="px-6 py-4 whitespace-nowrap">
+                  <div class="flex items-center">
+                    <div class="flex-shrink-0 h-10 w-10">
+                      <img class="h-10 w-10 rounded-full" src="/investment_companies/square.jpg" alt="twitter logo">
+                    </div>
+                    <div class="ml-4">
+                      <div class="text-sm font-medium text-gray-900">
+                        SQUARE
+                      </div>
+                    </div>
+                  </div>
+                </td>
+                <td class="px-6 py-4 whitespace-nowrap">
+                  <div class="text-sm text-gray-900">$204.80</div>
+                </td>
+              </tr>
             </tbody>
           </table>
         </div>
