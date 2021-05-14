@@ -17,7 +17,7 @@
 <svelte:head>
 	<title>Edan Ben-Atar</title>
 </svelte:head>
-<img src="/edan-ben-atar.jpg" class="rounded-full w-28" alt="">
+<img src="/edan-ben-atar.jpg" class="rounded-full w-28 mb-5" alt="">
 <h1 class="text-4xl">Edan Ben-Atar</h1>
 <hr class="w-16 my-8 border-gray-300">
 <h3 class="text-2xl">Web Developer</h3>
