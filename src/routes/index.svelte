@@ -22,5 +22,3 @@
 <p class="text-xl text-center">
 On an a life long journey of learning.
 I live in Maryland with my partner in crime, our 3-year-old superman and furball.</p>
-<hr class="w-16 my-8 border-gray-300">
-<h3 class="text-2xl">Web Developer</h3>
