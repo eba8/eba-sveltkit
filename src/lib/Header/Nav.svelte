@@ -5,7 +5,7 @@
 
 <nav class="bg-white shadow position: fixed w-screen">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex md:justify-center h-16">
+      <div class="flex sm:justify-center h-16">
         <div class="flex">
           <div class="hidden sm:ml-6 sm:flex sm:space-x-8">
             <ul class="flex flex-row space-x-4 items-center">
