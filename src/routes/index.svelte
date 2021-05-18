@@ -18,6 +18,9 @@
 	<title>Edan Ben-Atar</title>
 </svelte:head>
 <img src="/edan-ben-atar.jpg" class="rounded-full w-28 mb-5" alt="">
-<h1 class="text-4xl">Edan Ben-Atar</h1>
+<h1 class="text-4xl mb-2">Hi, I'm Edan! 👋</h1>
+<p class="text-xl text-center">
+On an a life long journey of learning.
+I live in Maryland with my partner in crime, our 3-year-old superman and furball.</p>
 <hr class="w-16 my-8 border-gray-300">
 <h3 class="text-2xl">Web Developer</h3>
