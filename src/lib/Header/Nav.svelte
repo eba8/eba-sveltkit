@@ -3,7 +3,7 @@
     let mobile_menu = false;
 </script>
 
-<nav class="bg-white shadow">
+<nav class="bg-white shadow position: fixed w-screen">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex md:justify-center h-16">
         <div class="flex">
@@ -17,7 +17,7 @@
         </div>
         <div class="-mr-2 flex items-center sm:hidden">
           <!-- Mobile menu button -->
-          <button type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500" aria-controls="mobile-menu" aria-expanded="false">
+          <button type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-gray-500" aria-controls="mobile-menu" aria-expanded="false">
             <span class="sr-only">Open main menu</span>
             <!--
               Icon when menu is closed.
@@ -38,16 +38,12 @@
     </div>
   
     {#if mobile_menu }
-    <div class="" id="mobile-menu">
       <div class="pt-2 pb-3 space-y-1">
-
-        <li class="bg-indigo-50 border-indigo-500 text-indigo-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium" class:active={$page.path === '/'}><a on:click = {()=>{mobile_menu = !mobile_menu}} sveltekit:prefetch href="/">Home</a></li>
+        <li class="bg-gray-50 border-gray-500 text-gray-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium" class:active={$page.path === '/'}><a on:click = {()=>{mobile_menu = !mobile_menu}} sveltekit:prefetch href="/">Home</a></li>
 
         <li class="border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium" class:active={$page.path === '/projects'}><a on:click = {()=>{mobile_menu = !mobile_menu}} sveltekit:prefetch href="/projects">Projects</a></li>
 
-        <li class="border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium" class:active={$page.path === '/investments'}><a on:click = {()=>{mobile_menu = !mobile_menu}} sveltekit:prefetch href="/investments">Investments</a></li>
-        
+        <li class="border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700 block pl-3 pr-4 py-2 border-l-4 text-base font-medium" class:active={$page.path === '/investments'}><a on:click = {()=>{mobile_menu = !mobile_menu}} sveltekit:prefetch href="/investments">Investments</a></li>    
       </div>
-    </div>
     {/if}
   </nav>
