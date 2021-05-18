@@ -1,8 +1,7 @@
-<footer class="bg-white">
+<footer class="bg-white mt-1">
     <div class="px-4 mx-auto overflow-hidden max-w-7xl sm:px-6 lg:px-8">
-    <hr class="w-16 my-8 border-gray-300">
-      <div class="flex justify-center mt-8 space-x-6">
-        
+      <hr class="w-16 my-8 border-gray-300">
+      <div class="flex justify-center mt-8 space-x-6">  
         <a href="https://twitter.com/edanbenatar" class="text-gray-400 hover:text-gray-500">
           <span class="sr-only">Twitter</span>
           <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
