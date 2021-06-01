@@ -4,7 +4,6 @@
 	import Footer from '$lib/Footer/index.svelte';	
 	import '../app.postcss';
 </script>
-
 <Nav />
 <main>
 	<div class="flex flex-col items-center justify-center h-screen">
