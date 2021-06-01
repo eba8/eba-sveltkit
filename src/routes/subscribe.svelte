@@ -7,5 +7,10 @@
     _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
     
     var ml_account = ml('accounts', '1989748', 'y8q2s0r8j3', 'load');
-    </script>
-    <!-- End MailerLite Universal -->
+</script>
+<!-- End MailerLite Universal -->
+
+<div class="ml-form-embed"
+  data-account="1989748:y8q2s0r8j3"
+  data-form="3869293:a3n1q3">
+</div>
