@@ -3,7 +3,7 @@
 
 </svelte:head>
 <div class="flex flex-col items-center justify-center h-screen">
-  <div class="flex flex-col items-center justify-center w-5/12 lg:w-5/12">
+  <div class="flex flex-col items-center justify-center w-5/12">
 
 <div class="flex flex-col justify-center py-12 sm:px-6 lg:px-8">
   <div class="sm:mx-auto sm:w-full sm:max-w-md">
