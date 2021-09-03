@@ -7,7 +7,7 @@
 <Nav />
 <main>
 	<div class="flex flex-col items-center justify-center h-screen">
-		<div class="flex flex-col items-center justify-center w-3/4 lg:w-5/12">	
+		<div class="flex flex-col items-center justify-center w-5/12 lg:w-5/12">	
 			<slot />
 			<Footer />
 		</div>
