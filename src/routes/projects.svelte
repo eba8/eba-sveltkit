@@ -1,7 +1,8 @@
 <svelte:head>
 	<title>Edan's Projects</title>
 </svelte:head>
-
+<div class="flex flex-col items-center justify-center h-screen">
+	<div class="flex flex-col items-center justify-center w-7/12 lg:w-5/12">
     <div class="px-5 py-5">
         <dl
           class="md:space-y-0 md:grid md:grid-cols-2 md:grid-rows-1 lg:grid-cols-2"
@@ -58,3 +59,5 @@
           </div>
         </dl>
       </div>
+    </div>
+  </div>

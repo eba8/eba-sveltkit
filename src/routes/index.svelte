@@ -17,8 +17,12 @@
 <svelte:head>
 	<title>Edan Ben-Atar</title>
 </svelte:head>
+<div class="flex flex-col items-center justify-center h-screen">
+	<div class="flex flex-col items-center justify-center w-7/12 lg:w-5/12">
 <img src="/edan-ben-atar.jpg" class="rounded-full w-28 mb-5" alt="">
 <h1 class="text-4xl mb-2">Hi, I'm Edan! 👋</h1>
 <p class="text-xl text-center">
 On an a life long journey of learning.
-I live in Maryland with my partner in crime, our 3-year-old superman and furball.</p>
+I live in Maryland with my partner in crime, our two boys and furball.</p>
+</div>
+</div>

@@ -2,6 +2,8 @@
 <svelte:head>
 
 </svelte:head>
+<div class="flex flex-col items-center justify-center h-screen">
+  <div class="flex flex-col items-center justify-center w-5/12 lg:w-5/12">
 
 <div class="flex flex-col justify-center py-12 sm:px-6 lg:px-8">
   <div class="sm:mx-auto sm:w-full sm:max-w-md">
@@ -44,4 +46,7 @@
     </div>
     <div class="mt-5 px-5 text-center text-gray-600">By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.</div>
   </div>
+</div>
+
+</div>
 </div>
