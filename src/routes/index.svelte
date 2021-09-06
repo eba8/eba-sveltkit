@@ -23,7 +23,7 @@
 			class="m-auto overflow-hidden rounded-lg shadow-md bg-black md:rounded-3xl xl:w-5/12 sm:w-10/12 md:w-6/12"
 		>
 			<div class="pt-10 pb-10 md:pt-20 md:px-10 sm:px-5">
-				<img src="/edan-ben-atar.jpg" alt="" class="w-40 h-40 m-auto rounded-full" srcset="" />
+				<img src="/edan-ben-atar.jpg" alt="" class="w-40 h-40 m-auto rounded-full" />
 				<h2 class="py-6 text-4xl font-bold text-center text-white md:text-6xl">Edan Ben-Atar</h2>
 				<p class="p-2 text-center text-white md:text-xl sm:text-lg md:pt-5">
 					On an a life long journey of learning. I live in Maryland with my partner in crime, our
@@ -63,8 +63,7 @@
 							</a>
 						</div>
 						<div>
-							<a
-								href
+							<button
 								on:click={() => {
 									subscribe = !subscribe;
 									navDisplay();
@@ -86,12 +85,12 @@
 										d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
 									/>
 								</svg>
-							</a>
+							</button>
 						</div>
 
 						<div>
 							<a
-								href="https://weblime.com/"
+								href="https://weblime.com"
 								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-full hover:border-gray-500 hover:text-gray-500"
 							>
 								<span class="font-bold text-md">WebLime</span>
@@ -113,7 +112,7 @@
 						</div>
 						<div>
 							<a
-								href="https://tailmars.com/"
+								href="https://tailmars.com"
 								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-full hover:border-gray-500 hover:text-gray-500"
 							>
 								<span class="font-bold text-md">Tailmars</span>
@@ -135,7 +134,7 @@
 						</div>
 						<div>
 							<a
-								href="https://digitalatar.com/"
+								href="https://digitalatar.com"
 								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-full hover:border-gray-500 hover:text-gray-500"
 							>
 								<span class="font-bold text-md">DigitalAtar</span>
@@ -156,8 +155,7 @@
 							</a>
 						</div>
 						<div>
-							<a
-								href
+							<button
 								on:click={() => {
 									investments = !investments;
 									navDisplay();
@@ -179,13 +177,15 @@
 										d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
 									/>
 								</svg>
-							</a>
+							</button>
 						</div>
 					</div>
 				{/if}
+
 				{#if subscribe}
 					<Subscribe />
 				{/if}
+
 				{#if investments}
 					<Investments />
 				{/if}
