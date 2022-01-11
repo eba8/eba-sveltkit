@@ -8,7 +8,7 @@
 						<div class="inline-block">
 							<div class="ml-3">
 								<span
-									class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium bg-blue-500 text-white"
+									class="inline-flex items-center px-3 py-0.5 rounded-md text-sm font-medium bg-blue-500 text-white"
 								>
 									<a href="https://weblime.com/">Visit</a>
 								</span>
@@ -25,7 +25,7 @@
 						<div class="inline-block">
 							<div class="ml-3">
 								<span
-									class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium bg-blue-500 text-white"
+									class="inline-flex items-center px-3 py-0.5 rounded-md text-sm font-medium bg-blue-500 text-white"
 									><a href="https://digitalatar.com/">Visit</a>
 								</span>
 							</div>
@@ -42,7 +42,7 @@
 						<div class="inline-block">
 							<div class="ml-3">
 								<span
-									class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium bg-blue-500 text-white"
+									class="inline-flex items-center px-3 py-0.5 rounded-md text-sm font-medium bg-blue-500 text-white"
 									><a href="https://tailmars.com/">Visit</a>
 								</span>
 							</div>

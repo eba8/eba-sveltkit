@@ -26,7 +26,7 @@
 								<div class="flex items-center">
 									<div class="flex-shrink-0 h-10 w-10">
 										<img
-											class="h-10 w-10 rounded-full"
+											class="h-10 w-10 rounded-md"
 											src="/investment_companies/trulieve-logo-age-gate.png"
 											alt="trulieve logo"
 										/>
@@ -45,7 +45,7 @@
 								<div class="flex items-center">
 									<div class="flex-shrink-0 h-10 w-10">
 										<img
-											class="h-10 w-10 rounded-full"
+											class="h-10 w-10 rounded-md"
 											src="/investment_companies/apple.jpg"
 											alt="apple logo"
 										/>
@@ -64,7 +64,7 @@
 								<div class="flex items-center">
 									<div class="flex-shrink-0 h-10 w-10">
 										<img
-											class="h-10 w-10 rounded-full"
+											class="h-10 w-10 rounded-md"
 											src="/investment_companies/cloudflare.jpg"
 											alt="cloudflare logo"
 										/>
@@ -83,7 +83,7 @@
 								<div class="flex items-center">
 									<div class="flex-shrink-0 h-10 w-10">
 										<img
-											class="h-10 w-10 rounded-full"
+											class="h-10 w-10 rounded-md"
 											src="/investment_companies/twitter.jpg"
 											alt="twitter logo"
 										/>
@@ -102,7 +102,7 @@
 								<div class="flex items-center">
 									<div class="flex-shrink-0 h-10 w-10">
 										<img
-											class="h-10 w-10 rounded-full"
+											class="h-10 w-10 rounded-md"
 											src="/investment_companies/tesla.png"
 											alt="twitter logo"
 										/>
@@ -121,7 +121,7 @@
 								<div class="flex items-center">
 									<div class="flex-shrink-0 h-10 w-10">
 										<img
-											class="h-10 w-10 rounded-full"
+											class="h-10 w-10 rounded-md"
 											src="/investment_companies/tilray.jpg"
 											alt="twitter logo"
 										/>
@@ -140,7 +140,7 @@
 								<div class="flex items-center">
 									<div class="flex-shrink-0 h-10 w-10">
 										<img
-											class="h-10 w-10 rounded-full"
+											class="h-10 w-10 rounded-md"
 											src="/investment_companies/disney.jpg"
 											alt="twitter logo"
 										/>
@@ -159,7 +159,7 @@
 								<div class="flex items-center">
 									<div class="flex-shrink-0 h-10 w-10">
 										<img
-											class="h-10 w-10 rounded-full"
+											class="h-10 w-10 rounded-md"
 											src="/investment_companies/square.jpg"
 											alt="twitter logo"
 										/>

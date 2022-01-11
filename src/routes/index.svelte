@@ -23,7 +23,7 @@
 			class="m-auto overflow-hidden rounded-lg shadow-md bg-black md:rounded-3xl xl:w-5/12 sm:w-10/12 md:w-6/12"
 		>
 			<div class="pt-10 pb-10 md:pt-20 md:px-10 sm:px-5">
-				<img src="/edan-ben-atar.jpg" alt="" class="w-40 h-40 m-auto rounded-full" />
+				<img src="/edan-ben-atar.jpg" alt="" class="w-40 h-40 m-auto rounded-md" />
 				<h2 class="py-6 text-4xl font-bold text-center text-white md:text-6xl">Edan Ben-Atar</h2>
 				<p class="p-2 text-center text-white md:text-xl sm:text-lg md:pt-5">
 					On an a life long journey of learning. I live in Maryland with my partner in crime, our
@@ -51,7 +51,7 @@
 						<div>
 							<a
 								href="https://twitter.com/edanbenatar"
-								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-full hover:border-gray-500 hover:text-gray-500"
+								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-md hover:border-gray-500 hover:text-gray-500"
 							>
 								<span class="font-bold text-md">Twitter</span>
 								<svg id="" viewBox="0 0 40 40" class="w-7 h-7">
@@ -69,7 +69,7 @@
 									subscribe = !subscribe;
 									navDisplay();
 								}}
-								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-full hover:border-gray-500 hover:text-gray-500"
+								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-md hover:border-gray-500 hover:text-gray-500"
 							>
 								<span class="font-bold text-md">Subscribe</span>
 								<svg
@@ -92,7 +92,7 @@
 						<div>
 							<a
 								href="https://weblime.com"
-								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-full hover:border-gray-500 hover:text-gray-500"
+								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-md hover:border-gray-500 hover:text-gray-500"
 							>
 								<span class="font-bold text-md">WebLime</span>
 								<svg
@@ -114,7 +114,7 @@
 						<div>
 							<a
 								href="https://tailmars.com"
-								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-full hover:border-gray-500 hover:text-gray-500"
+								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-md hover:border-gray-500 hover:text-gray-500"
 							>
 								<span class="font-bold text-md">Tailmars</span>
 								<svg
@@ -136,7 +136,7 @@
 						<div>
 							<a
 								href="https://digitalatar.com"
-								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-full hover:border-gray-500 hover:text-gray-500"
+								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-md hover:border-gray-500 hover:text-gray-500"
 							>
 								<span class="font-bold text-md">DigitalAtar</span>
 								<svg
@@ -162,7 +162,7 @@
 									investments = !investments;
 									navDisplay();
 								}}
-								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-full hover:border-gray-500 hover:text-gray-500"
+								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-md hover:border-gray-500 hover:text-gray-500"
 							>
 								<span class="font-bold text-md">Investments</span>
 								<svg
@@ -184,9 +184,9 @@
 						<div>
 							<a
 								href="https://gumroad.com/a/604198003/kSrqD"
-								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-full hover:border-gray-500 hover:text-gray-500"
+								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-md hover:border-gray-500 hover:text-gray-500"
 							>
-								<span class="font-bold text-md">Learn WordPress with Nat</span>
+								<span class="font-bold text-md">Learn WP with Nat</span>
 								<svg
 									xmlns="http://www.w3.org/2000/svg"
 									class="h-7 w-7"
@@ -203,6 +203,28 @@
 										stroke-linejoin="round"
 										stroke-width="2"
 										d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222"
+									/>
+								</svg>
+							</a>
+						</div>
+						<div>
+							<a
+								href="https://puzzlez.io"
+								class="flex justify-between px-5 py-2 text-gray-800 transition-all border border-gray-300 rounded-md hover:border-gray-500 hover:text-gray-500"
+							>
+								<span class="font-bold text-md">Puzzlez</span>
+								<svg
+									xmlns="http://www.w3.org/2000/svg"
+									class="h-7 w-7"
+									fill="none"
+									viewBox="0 0 24 24"
+									stroke="currentColor"
+								>
+									<path
+										stroke-linecap="round"
+										stroke-linejoin="round"
+										stroke-width="2"
+										d="M11 4a2 2 0 114 0v1a1 1 0 001 1h3a1 1 0 011 1v3a1 1 0 01-1 1h-1a2 2 0 100 4h1a1 1 0 011 1v3a1 1 0 01-1 1h-3a1 1 0 01-1-1v-1a2 2 0 10-4 0v1a1 1 0 01-1 1H7a1 1 0 01-1-1v-3a1 1 0 00-1-1H4a2 2 0 110-4h1a1 1 0 001-1V7a1 1 0 011-1h3a1 1 0 001-1V4z"
 									/>
 								</svg>
 							</a>
