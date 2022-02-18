@@ -1,6 +1,5 @@
 <script>
 	import Subscribe from '../lib/Subscribe.svelte';
-	import Investments from '../lib/Investments.svelte';
 
 	let subscribe = false;
 	let nav = true;
