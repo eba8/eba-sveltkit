@@ -27,25 +27,6 @@
 									<div class="flex-shrink-0 h-10 w-10">
 										<img
 											class="h-10 w-10 rounded-md"
-											src="/investment_companies/trulieve-logo-age-gate.png"
-											alt="trulieve logo"
-										/>
-									</div>
-									<div class="ml-4">
-										<div class="text-sm font-medium text-gray-900">TRULIEVE CANNABIS CORP</div>
-									</div>
-								</div>
-							</td>
-							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="text-sm text-gray-900">$7.82</div>
-							</td>
-						</tr>
-						<tr>
-							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="flex items-center">
-									<div class="flex-shrink-0 h-10 w-10">
-										<img
-											class="h-10 w-10 rounded-md"
 											src="/investment_companies/apple.jpg"
 											alt="apple logo"
 										/>
@@ -56,7 +37,7 @@
 								</div>
 							</td>
 							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="text-sm text-gray-900">$111.18</div>
+								<div class="text-sm text-gray-900">$115.63</div>
 							</td>
 						</tr>
 						<tr>
@@ -75,26 +56,7 @@
 								</div>
 							</td>
 							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="text-sm text-gray-900">$24.30</div>
-							</td>
-						</tr>
-						<tr>
-							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="flex items-center">
-									<div class="flex-shrink-0 h-10 w-10">
-										<img
-											class="h-10 w-10 rounded-md"
-											src="/investment_companies/twitter.jpg"
-											alt="twitter logo"
-										/>
-									</div>
-									<div class="ml-4">
-										<div class="text-sm font-medium text-gray-900">Twitter</div>
-									</div>
-								</div>
-							</td>
-							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="text-sm text-gray-900">$28.59</div>
+								<div class="text-sm text-gray-900">$44.77</div>
 							</td>
 						</tr>
 						<tr>
@@ -113,64 +75,7 @@
 								</div>
 							</td>
 							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="text-sm text-gray-900">$494.22</div>
-							</td>
-						</tr>
-						<tr>
-							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="flex items-center">
-									<div class="flex-shrink-0 h-10 w-10">
-										<img
-											class="h-10 w-10 rounded-md"
-											src="/investment_companies/tilray.jpg"
-											alt="twitter logo"
-										/>
-									</div>
-									<div class="ml-4">
-										<div class="text-sm font-medium text-gray-900">TILRAY</div>
-									</div>
-								</div>
-							</td>
-							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="text-sm text-gray-900">$8.90</div>
-							</td>
-						</tr>
-						<tr>
-							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="flex items-center">
-									<div class="flex-shrink-0 h-10 w-10">
-										<img
-											class="h-10 w-10 rounded-md"
-											src="/investment_companies/disney.jpg"
-											alt="twitter logo"
-										/>
-									</div>
-									<div class="ml-4">
-										<div class="text-sm font-medium text-gray-900">DISNEY</div>
-									</div>
-								</div>
-							</td>
-							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="text-sm text-gray-900">$118.04</div>
-							</td>
-						</tr>
-						<tr>
-							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="flex items-center">
-									<div class="flex-shrink-0 h-10 w-10">
-										<img
-											class="h-10 w-10 rounded-md"
-											src="/investment_companies/square.jpg"
-											alt="twitter logo"
-										/>
-									</div>
-									<div class="ml-4">
-										<div class="text-sm font-medium text-gray-900">SQUARE</div>
-									</div>
-								</div>
-							</td>
-							<td class="px-6 py-4 whitespace-nowrap">
-								<div class="text-sm text-gray-900">$204.80</div>
+								<div class="text-sm text-gray-900">$629.28</div>
 							</td>
 						</tr>
 					</tbody>
